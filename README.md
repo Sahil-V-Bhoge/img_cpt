@@ -34,9 +34,3 @@ To run the code in this repository, you will need the following libraries:
 - NumPy
 - Pandas
 - Matplotlib (for visualization)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/image-captioning-flickr30k.git
-   cd image-captioning-flickr30k
