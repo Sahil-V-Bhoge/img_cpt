@@ -29,7 +29,7 @@ The model's performance was evaluated using the BLEU (Bilingual Evaluation Under
 ### Prerequisites
 To run the code in this repository, you will need the following libraries:
 - Python 3.x
-- TensorFlow or PyTorch (depending on your preferred deep learning framework)
+- TensorFlow or PyTorch
 - NLTK
 - NumPy
 - Pandas
